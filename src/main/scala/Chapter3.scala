@@ -2,6 +2,7 @@
   * Created by caseywebb on 3/29/17.
   */
 import doodle.core.Image._
+import doodle.core.Color
 
 object Chapter3 {
 
